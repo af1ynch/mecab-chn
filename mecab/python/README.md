@@ -12,9 +12,9 @@ sudo python setup.py install
 e.g. /usr/local/lib/python3.5/dist-packages/mecab   
    
 代码实例
-'''pycon
+```pycon
 >>>import mecab
 >>>parse = mecab.parse("结婚的和尚未结婚的")
 >>>parse
 >>>"结婚 的 和 尚未 结婚 的 \n"
-'''
+```
