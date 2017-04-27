@@ -21,7 +21,7 @@ e.g. /usr/local/lib/python3.5/dist-packages/mecab
    
 ### 3. 关键词提取
    
-在分词、词性标注、拼音转换和繁简转换功能的基础上，拓展了关键词提取的功能   
+在分词、词性标注、拼音转换和繁简转换功能的基础上，拓展了关键词提取的功能   
 基于Tf-Idf算法的关键词提取
 * mecab.extract_tags(sentence,option, topK=20, withWeight=False, allowPOS=())
   * sentence 为待提取的文本
