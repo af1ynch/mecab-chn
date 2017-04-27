@@ -1,1 +1,1 @@
-# mecab-chn
+
